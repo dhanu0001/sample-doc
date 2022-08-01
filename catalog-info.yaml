@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "sample-Document"
+  description: "sample Documentation"
+  annotations:
+    github.com/project-slug: dhanu0001/sample-doc
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "dhanu0001"

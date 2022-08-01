@@ -1,0 +1,8 @@
+site_name: "sample-Document"
+site_description: "sample Documentation"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
